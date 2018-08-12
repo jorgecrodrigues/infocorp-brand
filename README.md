@@ -1,2 +1,2 @@
-# infocorp-brand
-Logo da EJ em SVG animada com CSS3
+# Infocorp brand animation
+> Logo da empresa SVG animado com CSS3.
